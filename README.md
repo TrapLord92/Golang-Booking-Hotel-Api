@@ -2,6 +2,6 @@
 ```
 HTTP_LISTEN_ADDRESS := 3000
 JWT_SECRET=YOURPASSWORD
-MONGO_DB_NAME=hotel-reservation
+MONGO_DB_NAME=Booking-hotel-Api
 MONGO_DB_URL=mongodb://localhost:27017
 ```
